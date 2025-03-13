@@ -1,7 +1,7 @@
 Here's your GitHub repository README based on your profile:  
 
 --- 
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Pradeepg2445&title=Profile%20Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Pradeepg2445&color=blue)
 
 # 🚀 Pradeep G - Full Stack Developer  
 
