@@ -1,7 +1,7 @@
 Here's your GitHub repository README based on your profile:  
 
 --- 
-![Profile Views](https://komarev.com/ghpvc/?username=Pradeepg2445&color=blue)
+![Profile Views](https://github-readme-stats.vercel.app/api?username=Pradeepg2445&show_icons=true&theme=tokyonight)
 
 # 🚀 Pradeep G - Full Stack Developer  
 
