@@ -1,6 +1,3 @@
-Here's your GitHub repository README based on your profile:  
-
---- 
 ![Profile Views](https://github-readme-stats.vercel.app/api?username=Pradeepg2445&show_icons=true&theme=tokyonight)
 
 # 🚀 Pradeep G - Full Stack Developer  
@@ -36,7 +33,3 @@ I'm passionate about **building innovative software solutions**, exploring **cut
 - 🔗 **LinkedIn**: [linkedin.com/in/pradeepg2445](https://linkedin.com/in/pradeepg2445)  
 - 📝 **Medium**: [medium.com/@pradeepg2445](https://medium.com/@pradeepg2445)  
 - 📧 **Email**: pradeepg2445@gmail.com  
-
----  
-
-Let me know if you need modifications! 🚀
